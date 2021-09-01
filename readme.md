@@ -1,3 +1,3 @@
 # Pong
 
-Creación del juego Pong en Python.
+A ver como mover cosas
